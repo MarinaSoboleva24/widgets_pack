@@ -99,20 +99,18 @@ We welcome contributions to enhance the platform with new widgets! Below are det
 
 #### Pull Request Messages
 
-- **Title**: Use a concise, descriptive title (e.g., “Add MyWidget for task scheduling”).
+- **Title**: Use a concise, descriptive title (e.g., "Add MyWidget for task scheduling").
 - **Description**:
 
   - Explain the widget’s purpose and functionality.
   - List any dependencies or prerequisites.
   - Mention breaking changes or impacts on existing functionality.
   - Example:
-
-    **Add MyWidget for Task Scheduling**
-
+   ```
     - Implements a new widget for scheduling tasks with a calendar view.
     - Requires no additional dependencies.
     - No breaking changes.
-      
+   ```
 
 #### Code Comments
 
