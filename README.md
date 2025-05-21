@@ -23,7 +23,7 @@ We welcome contributions to enhance the platform with new widgets! Below are det
    Fork this repository and clone it to your local machine:
 
    ```
-   git clone https://github.com/Baseflow/widgets_pack.git
+   git clone https://github.com/MarinaSoboleva24/widgets_pack.git
    cd widgets_pack
    ```
 
@@ -107,13 +107,12 @@ We welcome contributions to enhance the platform with new widgets! Below are det
   - Mention breaking changes or impacts on existing functionality.
   - Example:
 
-    ```
     **Add MyWidget for Task Scheduling**
 
     - Implements a new widget for scheduling tasks with a calendar view.
     - Requires no additional dependencies.
     - No breaking changes.
-    ```
+      
 
 #### Code Comments
 
